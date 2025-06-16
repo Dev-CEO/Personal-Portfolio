@@ -502,7 +502,7 @@ body {
     min-height: 70vh;
     margin-left: 0px;
     border-radius: 30px;
-    background-image: url(/images/E-learning.png);
+    background-image: url(images/E-learning.png);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -513,7 +513,7 @@ body {
     min-height: 70vh;
     margin-left: 0px;
     border-radius: 30px;
-    background-image: url(/images/weatherForecast.png);
+    background-image: url(images/weatherForecast.png);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -524,7 +524,7 @@ body {
     min-height: 70vh;
     margin-left: 0px;
     border-radius: 30px;
-    background-image: url(/images/portfolio.png);
+    background-image: url(images/portfolio.png);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -536,7 +536,7 @@ body {
     min-height: 70vh;
     margin-left: 0px;
     border-radius: 30px;
-    background-image: url(/images/jarvis.png);
+    background-image: url(images/jarvis.png);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -547,7 +547,18 @@ body {
     min-height: 70vh;
     margin-left: 0px;
     border-radius: 30px;
-    background-image: url(/images/studentsReport.png);
+    background-image: url(images/studentsReport.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.projects-container > .projects > .todo-pic {
+     background-color: #1f242d;
+    width: 100%;
+    min-height: 70vh;
+    margin-left: 0px;
+    border-radius: 30px;
+    background-image: url(images/todo.png);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -560,7 +571,7 @@ body {
 
 .projects-container > .projects{
     height: 70vh;
-    width: 510%;
+    width: 610%;
     display: flex;
     gap: 80px;
 }

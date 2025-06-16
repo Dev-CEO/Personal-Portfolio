@@ -5,7 +5,7 @@ let prj_list = document.querySelector('.projects-container');
 
 right.addEventListener('click', () => {
     prj_list.scrollBy({
-        left: 1580,
+        left: 1570,
         right: 0,
         behavior: 'smooth'
     });
@@ -14,7 +14,7 @@ right.addEventListener('click', () => {
 
 left.addEventListener('click', () => {
     prj_list.scrollBy({
-        left: -1580,
+        left: -1570,
         right: 0,
         behavior: 'smooth'
     });
